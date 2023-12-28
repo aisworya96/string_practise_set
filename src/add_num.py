@@ -1,5 +1,3 @@
-# Python Program to Add Two Numbers
-
 def add_num(num1, num2):
     sum_result = num1 + num2
     return sum_result
